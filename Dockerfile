@@ -1,1 +1,1 @@
-FROM pushtechnology/diffusion:5.9.5-45519
+FROM pushtechnology/diffusion:5.9.6-45850
