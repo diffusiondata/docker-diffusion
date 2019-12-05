@@ -1,1 +1,1 @@
-FROM pushtechnology/diffusion:6.3.4-65388
+FROM pushtechnology/diffusion:6.4.0-SNAPSHOT-65777
